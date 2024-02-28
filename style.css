@@ -1,0 +1,30 @@
+.hero{
+    display: flex;
+    background-color: #1F2937;
+
+}
+.header{
+    display: flex;
+    align-items: center;
+    flex-grow: 1;
+    justify-content: space-around;
+}
+
+.headerlinks a{
+    text-decoration: none;
+    font-size: 18px;
+    color: #E5E7EB;
+}
+
+ul.headerlinks{
+    list-style-type: none;
+    padding: 0px;
+    display: flex;
+    gap: 1em;
+    
+}
+
+.logo{
+    font-size: 24px;
+    color: #F9FAF8;
+}
