@@ -24,3 +24,6 @@ The primary font used in the design is Roboto.
 ## Technology Stack
 - HTML
 - CSS 
+
+## Done
+Begun on February 27, 2024, and completed at 20:05 on March 3, 2024, this project was both enlightening and challenging. Initially, I was at a loss for how to start and found myself baffled by flexbox, even after going through the lessons. I restarted several times, frequently deleting HTML and CSS code to begin anew from scratch. Ultimately, I am pleased with the outcome, though the alignment of Thor's quote didn't quite match the assignment's requirements. Overall, I'm very satisfied. Now, I'm ready to delve into JavaScript.
